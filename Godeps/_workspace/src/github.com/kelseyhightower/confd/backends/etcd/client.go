@@ -1,6 +1,6 @@
 package etcd
 
-import goetcd "github.com/coreos/go-etcd/etcd"
+import goetcd "github.com/andrewwebber/confd/Godeps/_workspace/src/github.com/coreos/go-etcd/etcd"
 
 // Client is a wrapper around the etcd client
 type Client struct {
